@@ -1,0 +1,47 @@
+Rama 		:- The Prince of Ayodhya.
+Sita 		:- The Princess of Janaka.
+Lakshmana   :- Brother of Rama.
+Ravana	:- The King of Lanka.
+Dasharatha	:- The King of Ayodhya and Father of Rama.
+Hanuman	:- The Greatest Devotee of Rama.
+Kausalya	:- Mother of Rama.
+Bharata	:- Rama's Brother.
+Satrughna	:- Rama's Brother.
+Sumitra	:- Mother of Lakshmana and Satrughna.
+Kumbhakarna	:- Brother of Ravana.
+Nila		:- Commander-in-Chief of Monkey Army.
+Vibhishana	:- Youngest Brother of Ravana.
+Sumantra	:- Dasaratha's Chief Minister.
+Vasishtha	:- Royal Priest to the Dasaratha.
+Vishwamitra	:- Mentor to Rama and Lakshmana.
+Janaka	:- King of Janaka.
+Surpanakha	:- Sister of Ravana.
+Jatayu	:- A Great eagle pledged to guard the lives of Darasatha's Children.  
+Sampati	:- Jatayu's Elder Brother.
+Vali		:- Ruler of Kishkindha
+Sugriva	:- Brother of Vali.
+Tara		:- Vali's Wife.
+Angada	:- Vali's Son.
+Jambavan	:- One of the Wise elders of Hanuman's search party.
+Tataka	:- A demoness.
+Subahu	:- Tataka's Son.
+Maricha	:- Tataka's Son.
+Gautama	:- A sage who cursed his wife.
+Ahalya	:- Gautama's Wife.
+Bhagiratha	:- A king who brought Ganga down to Earth
+Mahabali	:- A demonian conquerer of several worlds.
+Vishnu	:- The supreme god.
+Kaikeyi	:- Bharata's Mother.
+Indrajit	:- Ravana's Son.
+Valmiki	:- Writer of Ramayana.
+Narada	:- The Celestial Rishi with lute.
+Parasurama	:- Sixth Incarnation of Vishnu.
+Manthara	:- Kaikeyi's Companion.
+Nala		:- Engineer of Rama Setu.
+Trijata	:- Rakshashi Companion of Sita.
+Dushana	:- Brother of Ravana.
+Khara		:- Ravana's Brother.
+Mandodari	:- Wife of Ravana.
+Siva		:- One of The Hindu Trinity.
+Parvati	:- Siva's Wife.
+Agastya	:- A Sage and Ravana's Uncle.
